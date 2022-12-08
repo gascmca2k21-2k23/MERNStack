@@ -40,7 +40,7 @@ Finally commit your code and push it
 
     git commit -m "appropriate message"
 
-    git push 
+   git push set upstream origin <yourname>
 ```
 
 

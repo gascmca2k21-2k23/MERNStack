@@ -25,8 +25,9 @@ Enter following commands
 
     git branch
 
-    git checkout <username>
+    git checkout <yourname>
 ```
+yourname appear in git branch comment
 
 # Step 3:
 
